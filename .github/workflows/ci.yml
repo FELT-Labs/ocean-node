@@ -3,7 +3,7 @@ name: 'CI'
 on:
   push:
     branches:
-      - main
+      - felt-docker
     tags:
       - '**'
   pull_request:
